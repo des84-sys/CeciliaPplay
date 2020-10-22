@@ -1,0 +1,67 @@
+/* css comment
+HTML Element Selectors
+*/
+
+p {
+background-color : Gray;
+color : Green;
+font-weight : bold;
+text-transform : capitalize;
+}
+
+/*
+li{
+  font-style: italic;
+}
+*/
+
+
+
+
+
+/* css comment
+Class Selectors
+*/
+.FancyStyle{
+  background-color : Gray;
+  color : Green;
+  font-weight : bold;
+  text-transform : capitalize;
+}
+
+.italicPinkClass{
+  color: pink;
+  font-style: italic;
+
+}
+
+.boldCapitalize{
+  font-weight : bold;
+  text-transform : capitalize;
+}
+
+
+/* css comment
+ID Selectors
+*/
+#fruitID{
+  font-style: italic;
+}
+
+
+
+
+
+
+/* css comment
+Pseudo Class Selectors
+*/
+a:hover {color: Red; text-decoration: none;}
+
+
+
+
+
+/* css comment
+Other Selectors
+*/
